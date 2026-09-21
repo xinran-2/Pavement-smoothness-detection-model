@@ -1,0 +1,14 @@
+#macOS system files
+.DS_Store
+**/.DS_Store
+
+#Python cache files
+__pycache__/
+*.py[cod]
+
+# upyter temporary files
+.ipynb_checkpoints/
+
+#Virtual environments
+.venv/
+venv/
